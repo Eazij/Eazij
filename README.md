@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eazij
+- 👋 Hi, I’m @Jum Sixtus
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on full stack web development
