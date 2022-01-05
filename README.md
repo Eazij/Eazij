@@ -8,5 +8,3 @@
 JUM SIXTUS/JUM SIXTUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-@OSSDAO-ORG•AIRDROP
--0xDdD83f37aba16d7DAfE0f3554Aa5b67f1DC3142f
